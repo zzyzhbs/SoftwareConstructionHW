@@ -1,0 +1,16 @@
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\GetPrime2.exe
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\GetPrime2.deps.json
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\GetPrime2.runtimeconfig.json
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\GetPrime2.runtimeconfig.dev.json
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\GetPrime2.dll
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\ref\GetPrime2.dll
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\bin\Debug\net5.0\GetPrime2.pdb
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.csproj.AssemblyReference.cache
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.GeneratedMSBuildEditorConfig.editorconfig
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.AssemblyInfoInputs.cache
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.AssemblyInfo.cs
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.csproj.CoreCompileInputs.cache
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.dll
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\ref\GetPrime2.dll
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.pdb
+\\mac\home\Desktop\程序\projects\SoftwareConstructionHW\HW2\GetPrime2\GetPrime2\obj\Debug\net5.0\GetPrime2.genruntimeconfig.cache

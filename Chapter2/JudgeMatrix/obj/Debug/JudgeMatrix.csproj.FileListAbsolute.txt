@@ -1,0 +1,6 @@
+/Users/yuanshengqi/Desktop/程序/projects/SoftwareConstructionHW/HW2/JudgeMatrix/JudgeMatrix/obj/Debug/JudgeMatrix.csproj.AssemblyReference.cache
+/Users/yuanshengqi/Desktop/程序/projects/SoftwareConstructionHW/HW2/JudgeMatrix/JudgeMatrix/obj/Debug/JudgeMatrix.csproj.CoreCompileInputs.cache
+/Users/yuanshengqi/Desktop/程序/projects/SoftwareConstructionHW/HW2/JudgeMatrix/JudgeMatrix/bin/Debug/JudgeMatrix.exe
+/Users/yuanshengqi/Desktop/程序/projects/SoftwareConstructionHW/HW2/JudgeMatrix/JudgeMatrix/bin/Debug/JudgeMatrix.pdb
+/Users/yuanshengqi/Desktop/程序/projects/SoftwareConstructionHW/HW2/JudgeMatrix/JudgeMatrix/obj/Debug/JudgeMatrix.exe
+/Users/yuanshengqi/Desktop/程序/projects/SoftwareConstructionHW/HW2/JudgeMatrix/JudgeMatrix/obj/Debug/JudgeMatrix.pdb
