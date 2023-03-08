@@ -15,7 +15,7 @@ namespace GetPrime2
         static void GetPrimes(int n, bool[] Vis)
         {
             
-            for (int k = 2; k <= n; ++k)
+            for (int k = 2; k*k <= n; ++k)
             {
                 if (Vis[k]) continue;
                 for (int i = 2; i * k <= n; ++i)
