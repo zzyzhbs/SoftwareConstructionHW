@@ -22,7 +22,12 @@ namespace CreateShapes
 
         public override double Area
         {
-            get => height * width;
+            get
+            {
+                if (!IsLegal())
+                    throw new InvalidOperationException();
+                return height * width;
+            }
         }
         public override bool IsLegal()
         {
@@ -47,6 +52,8 @@ namespace CreateShapes
         {
             get
             {
+                if (!IsLegal())
+                    throw new InvalidOperationException();
                 double p = (a + b + c) / 2;
                 return Math.Sqrt(p * (p - a) * (p - b) * (p - c));
             }
@@ -81,7 +88,7 @@ namespace CreateShapes
             int k = rd.Next(0, 3);
 
             Shape x;
-
+            
             switch (k)
             {
                 case 0:
@@ -89,7 +96,7 @@ namespace CreateShapes
                     break;
                 case 1:
                     do
-                    { // guarantee triangle is legal
+                    { // Guarantee triangle is legal
                         x = new Triangle(rd.Next(0, 10), rd.Next(0, 10), rd.Next(0, 10));
                     } while (!x.IsLegal());
                     break;
@@ -116,7 +123,9 @@ namespace CreateShapes
         }
         public static void Main()
         {
-            Console.WriteLine(SumRandArea(10));
+            Func<double, double> func = (x => 2 * x + 1);
+            Console.WriteLine(func(SumRandArea(10)));
         }
+        
     }
 }
